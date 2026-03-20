@@ -1,0 +1,10 @@
+# Netlify + Quartz 4
+# Docs: https://quartz.jzhao.xyz/hosting (Netlify section)
+
+[build]
+  command = "npm ci && npx quartz build"
+  publish = "public"
+
+[build.environment]
+  # Quartz 4 requires Node >= 22 (see package.json "engines")
+  NODE_VERSION = "22"
