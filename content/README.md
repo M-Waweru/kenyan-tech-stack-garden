@@ -1,3 +1,9 @@
+---
+publish: true
+created: 2026-03-02T01:02:24.573+03:00
+modified: 2026-03-21T02:31:03.248+03:00
+---
+
 # The Kenya Tech Stack
 
 ## Rails, Hustle, and the Republic of Builders
