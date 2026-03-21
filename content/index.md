@@ -3,7 +3,7 @@ publish: true
 title: The Kenya Tech Stack
 description: Rails, hustle, and the republic of builders — a docu-novel about how Kenya built technology from the rails up.
 created: 2026-03-21T02:36:03.243+03:00
-modified: 2026-03-21T02:36:07.074+03:00
+modified: 2026-03-21T03:12:29.577+03:00
 ---
 
 
@@ -15,6 +15,28 @@ Kenya did not become a global technology reference point by building apps first.
 
 This manuscript is written as a **docu-novel**: each chapter opens with a human scene, names the rail being built, identifies the builder–user–referee triad, details what behavior changes, and closes with the shadow and bridge to the next layer.
 
+**Recurring motifs:** agent stall • cybercafé • WhatsApp group • OTP • Till number • PayBill • a queue that became a workflow • a meme that became a movement.
+
+---
+
+## Structure and Outline
+
+The **[Structure](The%20Structure.md)** is the master outline for the book — the "bible" you can draft from. It defines the full chapter breakdown (75+ chapters), the docu-novel format (cold open → rail → characters → what changes → shadow → bridge), and the writing rules. Use it to navigate the intended scope and to ensure consistency across parts.
+
+**Note:** Not everything in the structure has been covered in the book parts yet. Chapters may be consolidated (e.g., multiple structure chapters in one part) or still unwritten.
+
+---
+
+## Factual Rigor and Citations
+
+The manuscript aims to be **as factual as possible**, with citations to real stories, reports, and public sources. The **[Factual Rigor Audit](factual-rigor-audit.md)** tracks:
+
+- Structure vs. content coverage (what's drafted vs. missing)
+- Citation gaps (claims needing inline footnotes)
+- New sources to add to the [Source Catalog](sources.md)
+
+Audits are done part by part. See the audit file for the current status and next steps.
+
 ---
 
 ## Start here
@@ -23,26 +45,28 @@ This manuscript is written as a **docu-novel**: each chapter opens with a human 
 
 ## Parts
 
-1. [Before the Hype](part-01-before-the-hype.md)
-2. [Connectivity](part-02-connectivity.md)
-3. [Money as a Network](part-03-money-as-a-network.md)
-4. [Messaging and Social Rails](part-04-messaging-and-social.md)
-5. [Banks Become Platforms](part-05-banks-become-platforms.md)
-6. [Merchant Rails](part-06-merchant-rails.md)
-7. [The State Stack](part-07-the-state-stack.md)
-8. [The Education Stack](part-08-education-stack.md)
-9. [Global Apps vs Local Physics](part-09-global-apps-local-physics.md)
-10. [Supply Chain Wars](part-10-supply-chain-wars.md)
-11. [Credit Becomes a Habit](part-11-credit-habit.md)
-12. [Money as Entertainment](part-12-money-as-entertainment.md)
-13. [Community Finance](part-13-community-finance.md)
-14. [Diaspora Rails and Parallel Dollar](part-14-diaspora-rails.md)
-15. [Work-from-Home Republic and AI Factory](part-15-work-ai-factory.md)
-16. [Survival Tech](part-16-survival-tech.md)
-17. [Creators, Memes, Misinformation](part-17-creators-memes-misinformation.md)
-18. [Power vs Networks](part-18-power-vs-networks.md)
-19. [Cybersecurity Era](part-19-cybersecurity-era.md)
-20. [The Future Stack (2026–2045)](part-20-future-stack.md)
+| Part | Title | Subtitle | Span |
+|------|-------|----------|------|
+| I | [Before the Hype](part-01-before-the-hype.md) | The Hidden Guild | 1988–2007 |
+| II | [Connectivity](part-02-connectivity.md) | Bandwidth Becomes Destiny | 2005–2012 |
+| III | [Money as a Network](part-03-money-as-a-network.md) | M-PESA and the Kenyan OS | 2007–today |
+| IV | [Messaging and Social Rails](part-04-messaging-and-social.md) | — | 2010–today |
+| V | [Banks Become Platforms](part-05-banks-become-platforms.md) | BaaS + APIs | 2014–today |
+| VI | [Merchant Rails](part-06-merchant-rails.md) | Paying Businesses Becomes Normal | 2003–today |
+| VII | [The State Stack](part-07-the-state-stack.md) | eGov as Daily Life | 2014–today |
+| VIII | [The Education Stack](part-08-education-stack.md) | Exam Culture, Offline Learning, School Ops | — |
+| IX | [Global Apps vs Local Physics](part-09-global-apps-local-physics.md) | — | 2015–today |
+| X | [Supply Chain Wars](part-10-supply-chain-wars.md) | Marikiti to API | 2014–2024 |
+| XI | [Credit Becomes a Habit](part-11-credit-habit.md) | — | 2012–2025 |
+| XII | [Money as Entertainment](part-12-money-as-entertainment.md) | — | 2016–today |
+| XIII | [Community Finance](part-13-community-finance.md) | The Parallel Bank | forever → now |
+| XIV | [Diaspora Rails and Parallel Dollar](part-14-diaspora-rails.md) | — | 2010–today |
+| XV | [Work-from-Home Republic and AI Factory](part-15-work-ai-factory.md) | — | 2010–today |
+| XVI | [Survival Tech](part-16-survival-tech.md) | Agritech, Cleantech, Asset Finance | — |
+| XVII | [Creators, Memes, Misinformation](part-17-creators-memes-misinformation.md) | — | 2016–today |
+| XVIII | [Power vs Networks](part-18-power-vs-networks.md) | — | 2013–today |
+| XIX | [Cybersecurity Era](part-19-cybersecurity-era.md) | The Nation as Attack Surface | — |
+| XX | [The Future Stack](part-20-future-stack.md) | 2026–2045 | — |
 
 ## Appendices
 
