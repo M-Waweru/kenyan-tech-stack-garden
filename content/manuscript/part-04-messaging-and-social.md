@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part IV — Messaging and Social Rails (2010–Today)
+description: Africa's Talking, WhatsApp as infrastructure. Programmable communications and social coordination as rails.
+created: 2026-03-21T03:33:26.740+03:00
+modified: 2026-03-21T03:38:40.220+03:00
+tags:
+  - manuscript
+  - part-iv
+---
+
 # Part IV: Messaging and Social Rails (2010-Today)
 
 ## 14. Africa's Talking: The Nervous System of Kenyan Products

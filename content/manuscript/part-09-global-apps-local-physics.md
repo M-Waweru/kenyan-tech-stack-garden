@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part IX — Global Apps vs Local Physics (2015–Today)
+description: Uber, Bolt, Little Cab, Glovo, Jumia. When global platforms meet local livelihoods and unit economics.
+created: 2026-03-21T03:33:26.876+03:00
+modified: 2026-03-21T03:39:11.689+03:00
+tags:
+  - manuscript
+  - part-ix
+---
+
 # Part IX: Global Apps vs Local Physics (2015-Today)
 
 ## 34. Uber and Bolt: Growth Meets Driver Backlash

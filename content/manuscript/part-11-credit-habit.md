@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part XI — Credit Becomes a Habit (2012–2025)
+description: Tala, Branch, Fuliza. Digital lending at scale and the CRB backlash.
+created: 2026-03-21T03:33:26.928+03:00
+modified: 2026-03-21T03:39:18.079+03:00
+tags:
+  - manuscript
+  - part-xi
+---
+
 # Part XI: Credit Becomes a Habit (2012-2025)
 
 ## 41. Digital Lending Boom: Credit as a Button

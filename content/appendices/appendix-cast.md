@@ -1,3 +1,13 @@
+---
+publish: true
+title: Appendix A — Cast
+description: People, institutions, and frontline roles as shared protagonists. How to read this cast.
+created: 2026-03-02T01:09:19.377+03:00
+modified: 2026-03-21T03:40:02.875+03:00
+tags:
+  - appendices
+---
+
 # Appendix A: Cast
 
 ## How to Read This Cast

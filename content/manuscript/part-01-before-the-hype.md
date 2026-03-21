@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part I — Before the Hype (1988–2007)
+description: Banking in the dark, the cybercafé republic, and telcoms before the boom. The hidden guild that forged Kenya's earliest tech builders.
+created: 2026-03-21T03:33:26.632+03:00
+modified: 2026-03-21T03:37:57.265+03:00
+tags:
+  - manuscript
+  - part-i
+---
+
 # Part I: Before the Hype (1988-2007)
 
 ## 1. Banking in the Dark

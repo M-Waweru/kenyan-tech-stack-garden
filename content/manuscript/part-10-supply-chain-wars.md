@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part X — Supply Chain Wars (2014–2024)
+description: Twiga, Sendy, Lori, MarketForce, Copia. Marikiti to API — digitizing produce and retail distribution.
+created: 2026-03-21T03:33:26.902+03:00
+modified: 2026-03-21T03:39:15.052+03:00
+tags:
+  - manuscript
+  - part-x
+---
+
 # Part X: Supply Chain Wars (2014-2024)
 
 ## 37. Twiga: Produce as a Machine

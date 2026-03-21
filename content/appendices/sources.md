@@ -1,3 +1,13 @@
+---
+publish: true
+title: Appendix D — Source Catalog
+description: Verifiable sources used across the manuscript. IDs for chapter footnotes and evidence tables.
+created: 2026-03-02T01:26:34.411+03:00
+modified: 2026-03-21T03:40:12.072+03:00
+tags:
+  - appendices
+---
+
 # Source Catalog
 
 This catalog contains verifiable sources used across the manuscript. Use these IDs in chapter-level footnotes and evidence tables.

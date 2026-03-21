@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part VI — Merchant Rails (2003–Today)
+description: Cellulant, DPO, JamboPay, Pesapal. Paying businesses becomes normal across Africa.
+created: 2026-03-21T03:33:26.788+03:00
+modified: 2026-03-21T03:38:44.860+03:00
+tags:
+  - manuscript
+  - part-vi
+---
+
 # Part VI: Merchant Rails (2003-Today)
 
 ## 18. Cellulant: The Pan-African Payments OG

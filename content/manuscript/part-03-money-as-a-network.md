@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part III — Money as a Network (2007–Today)
+description: M-PESA as payment OS, PayBill and Till numbers, Daraja APIs. Mobile money becomes Kenya's operating system.
+created: 2026-03-21T03:33:26.703+03:00
+modified: 2026-03-21T03:38:37.047+03:00
+tags:
+  - manuscript
+  - part-iii
+---
+
 # Part III: Money as a Network (2007-Today)
 
 ## 8. M-PESA: The Payment OS

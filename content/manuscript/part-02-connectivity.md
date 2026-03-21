@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part II — Connectivity (2005–2012)
+description: Bitange Ndemo's bet, subsea cables, Safaricom as platform, and home internet. Bandwidth becomes destiny.
+created: 2026-03-21T03:33:26.670+03:00
+modified: 2026-03-21T03:38:00.504+03:00
+tags:
+  - manuscript
+  - part-ii
+---
+
 # Part II: Connectivity (2005-2012)
 
 ## 4. Bitange Ndemo's Bet

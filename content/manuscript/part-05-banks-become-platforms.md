@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part V — Banks Become Platforms (2014–Today)
+description: Jenga API, neobanks, BaaS. When banks expose APIs, fintech creation accelerates.
+created: 2026-03-21T03:33:26.765+03:00
+modified: 2026-03-21T03:38:43.411+03:00
+tags:
+  - manuscript
+  - part-v
+---
+
 # Part V: Banks Become Platforms (2014-Today)
 
 ## 16. Jenga API and the Platformization of Banking

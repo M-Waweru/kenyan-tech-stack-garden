@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part VII — The State Stack (2014–Today)
+description: eCitizen, eGov, identity rails. The state becomes a product citizens interact with daily.
+created: 2026-03-21T03:33:26.821+03:00
+modified: 2026-03-21T03:38:49.643+03:00
+tags:
+  - manuscript
+  - part-vii
+---
+
 # Part VII: The State Stack (2014-Today)
 
 ## 22. eCitizen: The State Becomes a Product

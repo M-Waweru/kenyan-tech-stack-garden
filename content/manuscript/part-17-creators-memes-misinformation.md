@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part XVII — Creators, Memes, and Misinformation (2016–Today)
+description: Creators and the new media economy, memes as political force, disinformation-for-hire.
+created: 2026-03-21T03:33:27.096+03:00
+modified: 2026-03-21T03:39:38.746+03:00
+tags:
+  - manuscript
+  - part-xvii
+---
+
 # Part XVII: Creators, Memes, and Misinformation (2016-Today)
 
 ## 63. Creators: New Media Economy

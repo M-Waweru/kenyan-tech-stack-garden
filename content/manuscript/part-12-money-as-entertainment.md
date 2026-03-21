@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part XII — Money as Entertainment (2016–Today)
+description: SportPesa, forex, crypto, trading apps. When money meets entertainment and speculation.
+created: 2026-03-21T03:33:26.956+03:00
+modified: 2026-03-21T03:39:21.644+03:00
+tags:
+  - manuscript
+  - part-xii
+---
+
 # Part XII: Money as Entertainment (2016-Today)
 
 ## 45. SportPesa: Betting Nation

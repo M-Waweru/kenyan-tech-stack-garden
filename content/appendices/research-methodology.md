@@ -1,3 +1,13 @@
+---
+publish: true
+title: Appendix C — Research Methodology and Source Protocol
+description: How the manuscript was drafted, source protocol, and verification approach.
+created: 2026-03-02T01:09:35.777+03:00
+modified: 2026-03-21T03:40:10.113+03:00
+tags:
+  - appendices
+---
+
 # Appendix C: Research Methodology and Source Protocol
 
 ## Manuscript Method

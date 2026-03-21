@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part XX — The Future Stack (2026–2045)
+description: The stack thickens, regulation as product, interoperability wars, compute arrives. Kenya Stack 2045.
+created: 2026-03-21T03:33:27.167+03:00
+modified: 2026-03-21T03:39:49.224+03:00
+tags:
+  - manuscript
+  - part-xx
+---
+
 # Part XX: The Future Stack (2026-2045)
 
 ## 71. The Stack Thickens

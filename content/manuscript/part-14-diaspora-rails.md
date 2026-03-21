@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part XIV — Diaspora Rails and the Parallel Dollar (2010–Today)
+description: Remittances, stablecoins, VASP regulation. Cross-border household finance and the shadow FX layer.
+created: 2026-03-21T03:33:27.018+03:00
+modified: 2026-03-21T03:39:31.455+03:00
+tags:
+  - manuscript
+  - part-xiv
+---
+
 # Part XIV: Diaspora Rails and the Parallel Dollar (2010-Today)
 
 ## 52. Remittances: Kenya's Invisible Export

@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part XIX — Cybersecurity Era (2018–Today)
+description: Kenya's high-profile hacks, cyber maturity, fraud fighting as the next industry.
+created: 2026-03-21T03:33:27.144+03:00
+modified: 2026-03-21T03:39:46.524+03:00
+tags:
+  - manuscript
+  - part-xix
+---
+
 # Part XIX: Cybersecurity Era (2018-Today)
 
 ## 69. High-Profile Hacks as Cultural Memory

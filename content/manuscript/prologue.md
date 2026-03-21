@@ -1,3 +1,14 @@
+---
+publish: true
+title: Prologue — The Phone as Agency
+description: A day in Kenya where everything runs through a phone — paying rent, schooling, transport, a chama vote, eCitizen, WhatsApp, and a remittance at midnight. Where the book begins.
+created: 2026-03-21T03:33:27.194+03:00
+modified: 2026-03-21T03:37:53.838+03:00
+tags:
+  - manuscript
+  - prologue
+---
+
 # Prologue: The Phone as Agency
 
 At 5:43 a.m., the first vibration is not a message from family. It is a payment confirmation. A parent in Embakasi has paid school transport before sunrise because the driver leaves at six. Ten minutes later, a rider receives a small transfer from yesterday's customer. By seven, a kiosk owner has restocked flour and cooking oil through a supplier who accepts mobile payment only. At 8:12 a.m., a civil servant forwards an eCitizen screenshot to a WhatsApp group and asks, "Has this portal gone through for you?" Before noon, one phone has already done what a stack of institutions once did separately: banking, receipts, queue management, identity checks, logistics, and social coordination.

@@ -1,3 +1,13 @@
+---
+publish: true
+title: Appendix B — Rail Map
+description: Kenya's technology story as interacting rails. Connectivity, money, identity, and governance layers.
+created: 2026-03-02T01:09:19.378+03:00
+modified: 2026-03-21T03:40:08.776+03:00
+tags:
+  - appendices
+---
+
 # Appendix B: Rail Map
 
 ## The Kenya Stack as Layered Infrastructure

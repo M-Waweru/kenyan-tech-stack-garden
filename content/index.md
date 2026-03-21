@@ -3,7 +3,9 @@ publish: true
 title: The Kenya Tech Stack
 description: Rails, hustle, and the republic of builders — a docu-novel about how Kenya built technology from the rails up.
 created: 2026-03-21T02:36:03.243+03:00
-modified: 2026-03-21T03:35:27.241+03:00
+modified: 2026-03-21T03:37:51.947+03:00
+tags:
+  - manuscript
 ---
 
 

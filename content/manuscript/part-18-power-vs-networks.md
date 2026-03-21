@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part XVIII — Power vs Networks (2013–Today)
+description: Cambridge Analytica, Gen Z protests, crackdowns and civic tech counterpunch.
+created: 2026-03-21T03:33:27.120+03:00
+modified: 2026-03-21T03:39:45.276+03:00
+tags:
+  - manuscript
+  - part-xviii
+---
+
 # Part XVIII: Power vs Networks (2013-Today)
 
 ## 66. Cambridge Analytica and Influence Operations

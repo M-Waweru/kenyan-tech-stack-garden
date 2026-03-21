@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part XIII — Community Finance
+description: Chamas, SACCO digitization, M-Changa. The parallel bank and trust as financial engine.
+created: 2026-03-21T03:33:26.986+03:00
+modified: 2026-03-21T03:39:26.335+03:00
+tags:
+  - manuscript
+  - part-xiii
+---
+
 # Part XIII: Community Finance (Always-On Tradition, Digitized)
 
 ## 47. Chamas and Table Banking: Trust as Financial Engine

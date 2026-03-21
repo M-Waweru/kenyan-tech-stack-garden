@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part XVI — Survival Tech (Agritech, Cleantech, Asset Finance)
+description: WeFarm, Apollo, M-KOPA, PAYGo, Watu Credit, Roam. Farming, energy, and mobility as systems.
+created: 2026-03-21T03:33:27.071+03:00
+modified: 2026-03-21T03:39:35.157+03:00
+tags:
+  - manuscript
+  - part-xvi
+---
+
 # Part XVI: Survival Tech (Agritech, Cleantech, Asset Finance)
 
 ## 57. WeFarm: SMS Knowledge as Infrastructure

@@ -1,3 +1,11 @@
+---
+publish: true
+title: Book — manuscript content
+draft: true
+created: 2026-03-21T03:13:09.778+03:00
+modified: 2026-03-21T03:37:51.946+03:00
+---
+
 # Book — Quartz / manuscript content
 
 This folder is the **editorial source of truth** for *The Kenya Tech Stack* when working in Cursor. It is structured for **Quartz** deployment (folders become site sections).

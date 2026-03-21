@@ -1,3 +1,14 @@
+---
+publish: true
+title: Part VIII — The Education Stack
+description: Exam culture, offline learning, school ops. Eneza, BRCK, eLimu, Moringa, Andela.
+created: 2026-03-21T03:33:26.850+03:00
+modified: 2026-03-21T03:38:49.686+03:00
+tags:
+  - manuscript
+  - part-viii
+---
+
 # Part VIII: The Education Stack
 
 ## 26. Kenya's Exam Machine
