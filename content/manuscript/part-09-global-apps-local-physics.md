@@ -3,7 +3,7 @@ publish: true
 title: Part IX — Global Apps vs Local Physics (2015–Today)
 description: Uber, Bolt, Little Cab, Glovo, Jumia. When global platforms meet local livelihoods and unit economics.
 created: 2026-03-21T03:33:26.876+03:00
-modified: 2026-03-21T03:39:11.689+03:00
+modified: 2026-03-21T03:45:37.505+03:00
 tags:
   - manuscript
   - part-ix
@@ -79,3 +79,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-26`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Part VIII — The Education Stack](part-08-education-stack.md) · [**Home**](../index.md) · **Next:** [Part X — Supply Chain Wars](part-10-supply-chain-wars.md) →

@@ -3,7 +3,7 @@ publish: true
 title: Part X — Supply Chain Wars (2014–2024)
 description: Twiga, Sendy, Lori, MarketForce, Copia. Marikiti to API — digitizing produce and retail distribution.
 created: 2026-03-21T03:33:26.902+03:00
-modified: 2026-03-21T03:39:15.052+03:00
+modified: 2026-03-21T03:45:40.425+03:00
 tags:
   - manuscript
   - part-x
@@ -91,3 +91,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-24`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Part IX — Global Apps vs Local Physics](part-09-global-apps-local-physics.md) · [**Home**](../index.md) · **Next:** [Part XI — Credit Becomes a Habit](part-11-credit-habit.md) →

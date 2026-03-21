@@ -1,15 +1,15 @@
 ---
 publish: true
-title: The Kenya Tech Stack
+title: The Kenyan Tech Stack
 description: Rails, hustle, and the republic of builders — a docu-novel about how Kenya built technology from the rails up.
 created: 2026-03-21T02:36:03.243+03:00
-modified: 2026-03-21T03:37:51.947+03:00
+modified: 2026-03-21T03:46:21.359+03:00
 tags:
   - manuscript
 ---
 
 
-# The Kenya Tech Stack
+# The Kenyan Tech Stack
 
 **Rails, Hustle, and the Republic of Builders**
 
@@ -76,6 +76,13 @@ Audits are done part by part. See the audit file for the current status and next
 - [Appendix B — Rail Map](appendices/appendix-rail-map.md)
 - [Appendix C — Research Methodology](appendices/research-methodology.md)
 - [Appendix D — Source Catalog](appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+**Start reading:** [Prologue — The Phone as Agency](manuscript/prologue.md) →  
+*Each part and appendix includes **Previous** / **Home** / **Next** links at the bottom so you can move through the book in order without theme code.*
 
 ---
 

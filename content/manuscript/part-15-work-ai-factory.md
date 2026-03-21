@@ -3,7 +3,7 @@ publish: true
 title: Part XV — Work-from-Home Republic and AI Factory (2010–Today)
 description: Online work as livelihood, AI training and labeling. Kenya inside the global digital service supply chain.
 created: 2026-03-21T03:33:27.047+03:00
-modified: 2026-03-21T03:39:32.028+03:00
+modified: 2026-03-21T03:45:46.989+03:00
 tags:
   - manuscript
   - part-xv
@@ -67,3 +67,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-19`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Part XIV — Diaspora Rails and Parallel Dollar](part-14-diaspora-rails.md) · [**Home**](../index.md) · **Next:** [Part XVI — Survival Tech](part-16-survival-tech.md) →

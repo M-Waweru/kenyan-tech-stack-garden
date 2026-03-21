@@ -3,7 +3,7 @@ publish: true
 title: Part I — Before the Hype (1988–2007)
 description: Banking in the dark, the cybercafé republic, and telcoms before the boom. The hidden guild that forged Kenya's earliest tech builders.
 created: 2026-03-21T03:33:26.632+03:00
-modified: 2026-03-21T03:37:57.265+03:00
+modified: 2026-03-21T03:45:28.052+03:00
 tags:
   - manuscript
   - part-i
@@ -85,3 +85,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-24`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Prologue](prologue.md) · [**Home**](../index.md) · **Next:** [Part II — Connectivity](part-02-connectivity.md) →

@@ -3,7 +3,7 @@ publish: true
 title: Part XIX — Cybersecurity Era (2018–Today)
 description: Kenya's high-profile hacks, cyber maturity, fraud fighting as the next industry.
 created: 2026-03-21T03:33:27.144+03:00
-modified: 2026-03-21T03:39:46.524+03:00
+modified: 2026-03-21T03:45:51.990+03:00
 tags:
   - manuscript
   - part-xix
@@ -67,3 +67,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-23`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Part XVIII — Power vs Networks](part-18-power-vs-networks.md) · [**Home**](../index.md) · **Next:** [Part XX — The Future Stack](part-20-future-stack.md) →

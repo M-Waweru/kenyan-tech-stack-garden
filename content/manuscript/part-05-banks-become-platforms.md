@@ -3,7 +3,7 @@ publish: true
 title: Part V — Banks Become Platforms (2014–Today)
 description: Jenga API, neobanks, BaaS. When banks expose APIs, fintech creation accelerates.
 created: 2026-03-21T03:33:26.765+03:00
-modified: 2026-03-21T03:38:43.411+03:00
+modified: 2026-03-21T03:45:32.354+03:00
 tags:
   - manuscript
   - part-v
@@ -67,3 +67,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-24`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Part IV — Messaging and Social Rails](part-04-messaging-and-social.md) · [**Home**](../index.md) · **Next:** [Part VI — Merchant Rails](part-06-merchant-rails.md) →

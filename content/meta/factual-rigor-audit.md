@@ -3,7 +3,7 @@ publish: true
 title: Factual Rigor Audit
 description: Structure vs content coverage, citation gaps, new sources. Part-by-part audit for inline citations and factual claims.
 created: 2026-03-21T03:12:16.632+03:00
-modified: 2026-03-21T03:40:17.771+03:00
+modified: 2026-03-21T03:46:14.464+03:00
 tags:
   - meta
   - audit
@@ -89,3 +89,9 @@ tags:
 | I | ✓ | Pending | Pending |
 | II | — | — | — |
 | III–XX | — | — | — |
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Full outline — Structure](structure.md) · [**Home**](../index.md) · **Next:** [Prologue](../manuscript/prologue.md) →

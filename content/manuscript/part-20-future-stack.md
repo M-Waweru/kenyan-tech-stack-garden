@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Part XX — The Future Stack (2026–2045)
-description: The stack thickens, regulation as product, interoperability wars, compute arrives. Kenya Stack 2045.
+description: The stack thickens, regulation as product, interoperability wars, compute arrives. Kenyan Tech Stack 2045.
 created: 2026-03-21T03:33:27.167+03:00
-modified: 2026-03-21T03:39:49.224+03:00
+modified: 2026-03-21T03:45:53.017+03:00
 tags:
   - manuscript
   - part-xx
@@ -61,7 +61,7 @@ Behavior will shift as lower latency and stronger local capacity enable heavier 
 
 Shadow: concentration, energy constraints, and talent shortages may limit benefits.
 
-## 76. Kenya Stack 2045
+## 76. Kenyan Tech Stack 2045
 
 If the previous decades were about building rails, the next decades are about coherence between rails. A resilient Kenyan stack in 2045 would connect connectivity, identity, payments, credit, community finance, logistics, education, labor, energy, media, and cybersecurity under accountable governance.
 
@@ -102,3 +102,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-26`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Part XIX — Cybersecurity Era](part-19-cybersecurity-era.md) · [**Home**](../index.md) · **Next:** [Appendix A — Cast](../appendices/appendix-cast.md) →

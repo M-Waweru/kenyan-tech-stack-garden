@@ -3,7 +3,7 @@ publish: true
 title: Part VII — The State Stack (2014–Today)
 description: eCitizen, eGov, identity rails. The state becomes a product citizens interact with daily.
 created: 2026-03-21T03:33:26.821+03:00
-modified: 2026-03-21T03:38:49.643+03:00
+modified: 2026-03-21T03:45:34.717+03:00
 tags:
   - manuscript
   - part-vii
@@ -93,3 +93,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-17`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Part VI — Merchant Rails](part-06-merchant-rails.md) · [**Home**](../index.md) · **Next:** [Part VIII — The Education Stack](part-08-education-stack.md) →

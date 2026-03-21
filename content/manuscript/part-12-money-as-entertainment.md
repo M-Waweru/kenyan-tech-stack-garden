@@ -3,7 +3,7 @@ publish: true
 title: Part XII — Money as Entertainment (2016–Today)
 description: SportPesa, forex, crypto, trading apps. When money meets entertainment and speculation.
 created: 2026-03-21T03:33:26.956+03:00
-modified: 2026-03-21T03:39:21.644+03:00
+modified: 2026-03-21T03:45:43.152+03:00
 tags:
   - manuscript
   - part-xii
@@ -67,3 +67,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-19`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Part XI — Credit Becomes a Habit](part-11-credit-habit.md) · [**Home**](../index.md) · **Next:** [Part XIII — Community Finance](part-13-community-finance.md) →

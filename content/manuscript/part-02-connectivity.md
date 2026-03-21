@@ -3,7 +3,7 @@ publish: true
 title: Part II — Connectivity (2005–2012)
 description: Bitange Ndemo's bet, subsea cables, Safaricom as platform, and home internet. Bandwidth becomes destiny.
 created: 2026-03-21T03:33:26.670+03:00
-modified: 2026-03-21T03:38:00.504+03:00
+modified: 2026-03-21T03:45:29.274+03:00
 tags:
   - manuscript
   - part-ii
@@ -92,3 +92,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-18`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Part I — Before the Hype](part-01-before-the-hype.md) · [**Home**](../index.md) · **Next:** [Part III — Money as a Network](part-03-money-as-a-network.md) →

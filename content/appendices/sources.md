@@ -3,7 +3,7 @@ publish: true
 title: Appendix D — Source Catalog
 description: Verifiable sources used across the manuscript. IDs for chapter footnotes and evidence tables.
 created: 2026-03-02T01:26:34.411+03:00
-modified: 2026-03-21T03:40:12.072+03:00
+modified: 2026-03-21T03:46:07.252+03:00
 tags:
   - appendices
 ---
@@ -65,3 +65,9 @@ This catalog contains verifiable sources used across the manuscript. Use these I
 - `SRC-31` Kenya mobile subscribers evolution, SIM prices 1990s–2000s (TechTrends KE): https://techtrendske.co.ke/2025/08/19/kenya-mobile-subscribers-2025
 - `SRC-32` Mobile subscription and penetration trends in Kenya (SAI/Journal): https://thesai.org/Publications/ViewPaper?Code=ijarai&Issue=1&SerialNo=1&Volume=4
 - `SRC-33` Statista — Kenya mobile cellular subscriptions 2000–2024: https://www.statista.com/statistics/498385/number-of-mobile-cellular-subscriptions-in-kenya/
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Appendix C — Research Methodology](research-methodology.md) · [**Home**](../index.md) · **Next:** [Full outline — Structure](../meta/structure.md) →

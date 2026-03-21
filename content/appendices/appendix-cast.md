@@ -3,7 +3,7 @@ publish: true
 title: Appendix A — Cast
 description: People, institutions, and frontline roles as shared protagonists. How to read this cast.
 created: 2026-03-02T01:09:19.377+03:00
-modified: 2026-03-21T03:40:02.875+03:00
+modified: 2026-03-21T03:46:02.426+03:00
 tags:
   - appendices
 ---
@@ -67,3 +67,9 @@ This book treats people, institutions, and frontline roles as shared protagonist
 ## Editorial Note
 
 For publication, this cast appendix should be expanded into profile entries with role timelines, key decisions, contested moments, and chapter references. The present version is a systems index to preserve narrative coherence across the manuscript.
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Part XX — The Future Stack](../manuscript/part-20-future-stack.md) · [**Home**](../index.md) · **Next:** [Appendix B — Rail Map](appendix-rail-map.md) →

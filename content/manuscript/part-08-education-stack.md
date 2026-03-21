@@ -3,7 +3,7 @@ publish: true
 title: Part VIII — The Education Stack
 description: Exam culture, offline learning, school ops. Eneza, BRCK, eLimu, Moringa, Andela.
 created: 2026-03-21T03:33:26.850+03:00
-modified: 2026-03-21T03:38:49.686+03:00
+modified: 2026-03-21T03:45:36.519+03:00
 tags:
   - manuscript
   - part-viii
@@ -139,3 +139,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-26`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Part VII — The State Stack](part-07-the-state-stack.md) · [**Home**](../index.md) · **Next:** [Part IX — Global Apps vs Local Physics](part-09-global-apps-local-physics.md) →

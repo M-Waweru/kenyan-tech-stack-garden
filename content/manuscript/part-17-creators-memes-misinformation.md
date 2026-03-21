@@ -3,7 +3,7 @@ publish: true
 title: Part XVII — Creators, Memes, and Misinformation (2016–Today)
 description: Creators and the new media economy, memes as political force, disinformation-for-hire.
 created: 2026-03-21T03:33:27.096+03:00
-modified: 2026-03-21T03:39:38.746+03:00
+modified: 2026-03-21T03:45:49.908+03:00
 tags:
   - manuscript
   - part-xvii
@@ -79,3 +79,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-14`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Part XVI — Survival Tech](part-16-survival-tech.md) · [**Home**](../index.md) · **Next:** [Part XVIII — Power vs Networks](part-18-power-vs-networks.md) →

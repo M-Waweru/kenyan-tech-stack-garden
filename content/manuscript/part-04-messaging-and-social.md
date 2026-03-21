@@ -3,7 +3,7 @@ publish: true
 title: Part IV — Messaging and Social Rails (2010–Today)
 description: Africa's Talking, WhatsApp as infrastructure. Programmable communications and social coordination as rails.
 created: 2026-03-21T03:33:26.740+03:00
-modified: 2026-03-21T03:38:40.220+03:00
+modified: 2026-03-21T03:45:31.380+03:00
 tags:
   - manuscript
   - part-iv
@@ -67,3 +67,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-22`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Part III — Money as a Network](part-03-money-as-a-network.md) · [**Home**](../index.md) · **Next:** [Part V — Banks Become Platforms](part-05-banks-become-platforms.md) →

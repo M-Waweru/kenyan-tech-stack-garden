@@ -3,7 +3,7 @@ publish: true
 title: Prologue — The Phone as Agency
 description: A day in Kenya where everything runs through a phone — paying rent, schooling, transport, a chama vote, eCitizen, WhatsApp, and a remittance at midnight. Where the book begins.
 created: 2026-03-21T03:33:27.194+03:00
-modified: 2026-03-21T03:37:53.838+03:00
+modified: 2026-03-21T03:45:26.907+03:00
 tags:
   - manuscript
   - prologue
@@ -24,3 +24,9 @@ Trust is the central currency of the Kenyan stack, and it has a dark twin: manip
 The structure that follows is chronological, but the deeper movement is layered. Part I begins before hype, with enterprise software and cybercafe improvisation. Part II follows the bandwidth turning point. Part III tracks mobile money becoming national operating system. Later parts examine merchant rails, digital government, education, logistics, credit, creator economies, and cyber maturity. The final section looks forward to 2045 and asks the question that now matters most: can Kenya scale interoperability and innovation without sacrificing fairness, security, and dignity?
 
 If this is a republic of builders, it is also a republic of users who taught the builders what to build next. That feedback loop is Kenya's real edge. The next chapters show how it formed, where it cracked, and what might keep it intact.
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Book home](../index.md) · **Next:** [Part I — Before the Hype](part-01-before-the-hype.md) →

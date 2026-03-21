@@ -3,7 +3,7 @@ publish: true
 title: Appendix C — Research Methodology and Source Protocol
 description: How the manuscript was drafted, source protocol, and verification approach.
 created: 2026-03-02T01:09:35.777+03:00
-modified: 2026-03-21T03:40:10.113+03:00
+modified: 2026-03-21T03:46:05.485+03:00
 tags:
   - appendices
 ---
@@ -64,3 +64,9 @@ Every chapter should include at least one Class A or B anchor before publication
 
 Current manuscript status: long-form draft complete in markdown for GitBook iteration.
 Next status target: citation-complete editorial draft.
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Appendix B — Rail Map](appendix-rail-map.md) · [**Home**](../index.md) · **Next:** [Appendix D — Source Catalog](sources.md) →

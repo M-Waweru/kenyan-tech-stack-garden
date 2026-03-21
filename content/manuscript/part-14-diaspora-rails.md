@@ -3,7 +3,7 @@ publish: true
 title: Part XIV — Diaspora Rails and the Parallel Dollar (2010–Today)
 description: Remittances, stablecoins, VASP regulation. Cross-border household finance and the shadow FX layer.
 created: 2026-03-21T03:33:27.018+03:00
-modified: 2026-03-21T03:39:31.455+03:00
+modified: 2026-03-21T03:45:45.690+03:00
 tags:
   - manuscript
   - part-xiv
@@ -79,3 +79,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-09`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Part XIII — Community Finance](part-13-community-finance.md) · [**Home**](../index.md) · **Next:** [Part XV — Work-from-Home Republic and AI Factory](part-15-work-ai-factory.md) →

@@ -3,7 +3,7 @@ publish: true
 title: Part XIII — Community Finance
 description: Chamas, SACCO digitization, M-Changa. The parallel bank and trust as financial engine.
 created: 2026-03-21T03:33:26.986+03:00
-modified: 2026-03-21T03:39:26.335+03:00
+modified: 2026-03-21T03:45:44.177+03:00
 tags:
   - manuscript
   - part-xiii
@@ -103,3 +103,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-26`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Part XII — Money as Entertainment](part-12-money-as-entertainment.md) · [**Home**](../index.md) · **Next:** [Part XIV — Diaspora Rails and Parallel Dollar](part-14-diaspora-rails.md) →

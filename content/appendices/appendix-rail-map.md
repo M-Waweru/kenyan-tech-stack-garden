@@ -3,14 +3,14 @@ publish: true
 title: Appendix B — Rail Map
 description: Kenya's technology story as interacting rails. Connectivity, money, identity, and governance layers.
 created: 2026-03-02T01:09:19.378+03:00
-modified: 2026-03-21T03:40:08.776+03:00
+modified: 2026-03-21T03:46:04.091+03:00
 tags:
   - appendices
 ---
 
 # Appendix B: Rail Map
 
-## The Kenya Stack as Layered Infrastructure
+## The Kenyan Tech Stack as Layered Infrastructure
 
 Kenya's technology story is best read as interacting rails rather than isolated sectors. Each layer reduces friction for the next layer and increases risk concentration if governance lags.
 
@@ -78,3 +78,9 @@ Kenya's technology story is best read as interacting rails rather than isolated 
 ## Strategic Implication
 
 New winners in Kenya's next decade are likely to be those that reduce friction between rails while raising trust at interfaces where users actually make decisions.
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Appendix A — Cast](appendix-cast.md) · [**Home**](../index.md) · **Next:** [Appendix C — Research Methodology](research-methodology.md) →

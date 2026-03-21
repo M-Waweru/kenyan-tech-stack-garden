@@ -3,7 +3,7 @@ publish: true
 title: The Structure — Full Chapter Outline
 description: Master outline for the book. 75+ chapters, docu-novel format, cold open → rail → shadow → bridge. The bible to draft from.
 created: 2026-03-02T00:39:12.185+03:00
-modified: 2026-03-21T03:40:14.653+03:00
+modified: 2026-03-21T03:46:13.678+03:00
 tags:
   - meta
   - structure
@@ -590,7 +590,7 @@ tags:
 
 * data centers + cloud + AI + cyber defense → Kenya as a regional hub.
 
-### 76) “Kenya Stack 2045”
+### 76) “Kenyan Tech Stack 2045”
 
 * Final thesis: Kenya becomes a layered system of
   **connectivity + distribution + messaging + identity + payments + programmable finance + credit + community finance + commerce/logistics + education + energy/mobility + media + governance + cyber defense**.
@@ -685,3 +685,9 @@ To make readers “know the people behind it,” end the book with:
 
 * **Cast Appendix:** person → role → company → what they changed
 * **Rail Map:** layer diagram of Kenya’s stack (connectivity → money → identity → …)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Appendix D — Source Catalog](../appendices/sources.md) · [**Home**](../index.md) · **Next:** [Factual rigor audit](factual-rigor-audit.md) →

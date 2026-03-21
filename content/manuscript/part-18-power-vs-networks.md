@@ -3,7 +3,7 @@ publish: true
 title: Part XVIII — Power vs Networks (2013–Today)
 description: Cambridge Analytica, Gen Z protests, crackdowns and civic tech counterpunch.
 created: 2026-03-21T03:33:27.120+03:00
-modified: 2026-03-21T03:39:45.276+03:00
+modified: 2026-03-21T03:45:50.986+03:00
 tags:
   - manuscript
   - part-xviii
@@ -79,3 +79,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-18`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Part XVII — Creators, Memes, Misinformation](part-17-creators-memes-misinformation.md) · [**Home**](../index.md) · **Next:** [Part XIX — Cybersecurity Era](part-19-cybersecurity-era.md) →

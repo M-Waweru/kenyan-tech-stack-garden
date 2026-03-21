@@ -3,7 +3,7 @@ publish: true
 title: Part VI — Merchant Rails (2003–Today)
 description: Cellulant, DPO, JamboPay, Pesapal. Paying businesses becomes normal across Africa.
 created: 2026-03-21T03:33:26.788+03:00
-modified: 2026-03-21T03:38:44.860+03:00
+modified: 2026-03-21T03:45:33.727+03:00
 tags:
   - manuscript
   - part-vi
@@ -91,3 +91,9 @@ This part should be read as infrastructure history, not startup chronology. The 
 - `SRC-26`: see [Source Catalog](../appendices/sources.md#source-catalog)
 
 Full links: [Source Catalog](../appendices/sources.md)
+
+---
+
+### Navigate the manuscript
+
+← **Previous:** [Part V — Banks Become Platforms](part-05-banks-become-platforms.md) · [**Home**](../index.md) · **Next:** [Part VII — The State Stack](part-07-the-state-stack.md) →
