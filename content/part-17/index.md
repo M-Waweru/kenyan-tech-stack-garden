@@ -2,7 +2,7 @@
 publish: true
 title: "Part 17: Creators, Memes, Misinformation"
 created: 2026-03-25T20:30:30.465+03:00
-modified: 2026-03-25T20:30:30.468+03:00
+modified: 2026-03-26T01:08:06.759+03:00
 tags:
   - topic-index
 ---
@@ -14,9 +14,9 @@ tags:
 
 ## Topics in this part
 
-- [63. Creators: New Media Economy](63-creators-media-economy.md)
-- [64. Memes as Political Force](64-memes-political-force.md)
-- [65. Disinformation-for-Hire and Narrative Warfare](65-disinformation-for-hire.md)
+- [63. Creators: New Media Economy](64-creators-media-economy.md)
+- [64. Memes as Political Force](65-memes-political-force.md)
+- [65. Disinformation-for-Hire and Narrative Warfare](66-disinformation-for-hire.md)
 
 
 <!-- EVIDENCE_BLOCK -->

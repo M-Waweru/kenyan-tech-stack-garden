@@ -2,7 +2,7 @@
 publish: true
 title: "Part 20: The Future Stack (2026–2045)"
 created: 2026-03-25T20:30:30.550+03:00
-modified: 2026-03-25T20:30:30.553+03:00
+modified: 2026-03-26T01:08:06.985+03:00
 tags:
   - topic-index
 ---
@@ -14,12 +14,12 @@ tags:
 
 ## Topics in this part
 
-- [71. The Stack Thickens](71-stack-thickens.md)
-- [72. Regulation Becomes Product](72-regulation-becomes-product.md)
-- [73. Interoperability Wars](73-interoperability-wars.md)
-- [74. Cross-Border as Battlefield](74-cross-border-battlefield.md)
-- [75. Compute Arrives](75-compute-arrives.md)
-- [76. Kenyan Tech Stack 2045](76-kenya-stack-2045.md)
+- [71. The Stack Thickens](72-stack-thickens.md)
+- [72. Regulation Becomes Product](73-regulation-becomes-product.md)
+- [73. Interoperability Wars](74-interoperability-wars.md)
+- [74. Cross-Border as Battlefield](75-cross-border-battlefield.md)
+- [75. Compute Arrives](76-compute-arrives.md)
+- [76. Kenyan Tech Stack 2045](77-kenya-stack-2045.md)
 
 
 <!-- EVIDENCE_BLOCK -->

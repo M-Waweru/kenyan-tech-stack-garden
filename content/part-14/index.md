@@ -2,7 +2,7 @@
 publish: true
 title: "Part 14: Diaspora Rails and Parallel Dollar"
 created: 2026-03-25T20:30:30.386+03:00
-modified: 2026-03-25T20:30:30.389+03:00
+modified: 2026-03-26T01:08:06.468+03:00
 tags:
   - topic-index
 ---
@@ -14,9 +14,9 @@ tags:
 
 ## Topics in this part
 
-- [52. Remittances: Kenya's Invisible Export](52-remittances-invisible-export.md)
-- [53. Stablecoins: The Parallel Dollar](53-stablecoins-parallel-dollar.md)
-- [54. VASP Regulation: The State Writes Rules for New Rails](54-vasp-regulation.md)
+- [52. Remittances: Kenya's Invisible Export](53-remittances-invisible-export.md)
+- [53. Stablecoins: The Parallel Dollar](54-stablecoins-parallel-dollar.md)
+- [54. VASP Regulation: The State Writes Rules for New Rails](55-vasp-regulation.md)
 
 
 <!-- EVIDENCE_BLOCK -->

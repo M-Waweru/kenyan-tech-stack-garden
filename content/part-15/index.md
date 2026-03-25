@@ -2,7 +2,7 @@
 publish: true
 title: "Part 15: Work-from-Home Republic and AI Factory"
 created: 2026-03-25T20:30:30.413+03:00
-modified: 2026-03-25T20:30:30.414+03:00
+modified: 2026-03-26T01:08:06.525+03:00
 tags:
   - topic-index
 ---
@@ -14,8 +14,8 @@ tags:
 
 ## Topics in this part
 
-- [55. Online Work as National Livelihood Layer](55-online-work-livelihood.md)
-- [56. AI Supply Chain: Training Models, Labeling Reality](56-ai-supply-chain-labeling.md)
+- [55. Online Work as National Livelihood Layer](56-online-work-livelihood.md)
+- [56. AI Supply Chain: Training Models, Labeling Reality](57-ai-supply-chain-labeling.md)
 
 
 <!-- EVIDENCE_BLOCK -->

@@ -2,7 +2,7 @@
 publish: true
 title: "Part 12: Money as Entertainment"
 created: 2026-03-25T20:30:30.338+03:00
-modified: 2026-03-25T20:30:30.341+03:00
+modified: 2026-03-26T01:08:06.165+03:00
 tags:
   - topic-index
 ---
@@ -14,8 +14,8 @@ tags:
 
 ## Topics in this part
 
-- [45. SportPesa: Betting Nation](45-sportpesa.md)
-- [46. Forex, Crypto, and Trading-App Culture](46-forex-crypto-trading-culture.md)
+- [45. SportPesa: Betting Nation](46-sportpesa.md)
+- [46. Forex, Crypto, and Trading-App Culture](47-forex-crypto-trading-culture.md)
 
 
 <!-- EVIDENCE_BLOCK -->

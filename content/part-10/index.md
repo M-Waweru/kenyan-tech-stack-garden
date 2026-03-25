@@ -2,7 +2,7 @@
 publish: true
 title: "Part 10: Supply Chain Wars"
 created: 2026-03-25T20:30:30.286+03:00
-modified: 2026-03-25T20:30:30.289+03:00
+modified: 2026-03-26T01:08:06.066+03:00
 tags:
   - topic-index
 ---
@@ -14,10 +14,10 @@ tags:
 
 ## Topics in this part
 
-- [37. Twiga: Produce as a Machine](37-twiga.md)
-- [38. Sendy: Logistics Dreams and Friction](38-sendy.md)
-- [39. Lori: Trucking as Software and Negotiation](39-lori-trucking.md)
-- [40. MarketForce and Copia: Informal Retail Digitization](40-marketforce-copia.md)
+- [37. Twiga: Produce as a Machine](38-twiga.md)
+- [38. Sendy: Logistics Dreams and Friction](39-sendy.md)
+- [39. Lori: Trucking as Software and Negotiation](40-lori-trucking.md)
+- [40. MarketForce and Copia: Informal Retail Digitization](41-marketforce-copia.md)
 
 
 <!-- EVIDENCE_BLOCK -->
